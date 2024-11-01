@@ -5,7 +5,7 @@ import time
 url = input("Nhập URL của website: ")
 
 # Số lần gửi yêu cầu
-num_requests = 100000
+num_requests = 1000000
 
 # Khoảng thời gian giữa các yêu cầu (giây)
 delay = 0,2
